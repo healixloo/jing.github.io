@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jing Lu"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "he"  
+  bio              : "Postdoc at FLI"
   location         : "Earth"
   employer         : "Leibniz Institute on Aging"
   uri              : # URL
