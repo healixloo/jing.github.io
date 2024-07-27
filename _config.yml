@@ -22,11 +22,11 @@ repository               : "https://github.com/healixloo"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jing Lu"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Leibniz Institute on Aging - Fritz Lipmann Institute"
+  employer         : "Leibniz Institute on Aging"
   uri              : # URL
   email            : "jing.lu@leibniz-fli.de" 
 
