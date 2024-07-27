@@ -13,6 +13,21 @@ author_profile: true
   Your browser does not support iframes. If you are seeing this message, it means the iframe content could not be loaded.
 </iframe>
 
+<div id="embedded-content">Loading...</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    fetch('https://healixloo.github.io/jing.github.io/files/2024-07-27-publications.html')
+      .then(response => response.text())
+      .then(html => {
+        document.getElementById('embedded-content').innerHTML = html;
+      })
+      .catch(error => {
+        console.error('Error fetching the HTML content:', error);
+        document.getElementById('embedded-content').innerText = 'Failed to load content.';
+      });
+  });
+</script>
 
 {% include base_path %}
 
