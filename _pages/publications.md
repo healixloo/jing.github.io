@@ -13,6 +13,10 @@ author_profile: true
   Your browser does not support iframes. If you are seeing this message, it means the iframe content could not be loaded.
 </iframe>
 
+<iframe src="{{ site.baseurl }}/files/2024-07-27-publications.html" style="width: 100%; height: 1000px; border: none;">
+  Your browser does not support iframes. If you are seeing this message, it means the iframe content could not be loaded.
+</iframe>
+
 
 {% include base_path %}
 
