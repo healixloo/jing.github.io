@@ -5,9 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+<!--
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
 {% endif %}
+-->
 
 <!-- #Embed an external HTML file using an iframe
 <iframe src="https://healixloo.github.io/jing.github.io/files/2024-07-27-publications.html" style="width: 100%; height: 1000px; border: none;">
