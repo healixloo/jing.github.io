@@ -9,9 +9,11 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
 {% endif %}
 
+<!-- #Embed an external HTML file using an iframe
 <iframe src="https://healixloo.github.io/jing.github.io/files/2024-07-27-publications.html" style="width: 100%; height: 1000px; border: none;">
   Your browser does not support iframes. If you are seeing this message, it means the iframe content could not be loaded.
 </iframe>
+-->
 
 <div id="embedded-content">Loading...</div>
 
