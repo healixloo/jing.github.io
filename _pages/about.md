@@ -1,9 +1,16 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+
+I'm a dedicated scientist and bioinformatician based in Thuringia, Germany. I hold a PhD in Biomathematics, Bioinformatics, and Computational Biology from Friedrich Schiller University Jena and a Master's in Genetics from the University of Chinese Academy of Sciences.
+
+Currently, I serve as a Senior Bioinformatician at the Leibniz Institute on Aging - Fritz Lipmann Institute (FLI), where I manage datasets and computational pipelines, conduct research on cellular senescence, and apply advanced machine learning models to solve complex classification problems. My work contributes to a deeper understanding of aging and disease mechanisms.
+
+With prior experience at 3DMedcare, Novogene, and BGI Genomics, I have developed bioinformatics pipelines for precision oncology and tumor immunotherapy, as well as conducted whole-genome sequencing and mitochondrial genome analysis. My core skills include Shinyapp, Git, and GitHub.
+
+I am passionate about leveraging bioinformatics to make significant improvements in healthcare and research. Connect with me on [LinkedIn](https://www.linkedin.com/in/healix-loo-1a6566225/) to explore potential collaborations.
