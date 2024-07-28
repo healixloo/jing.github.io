@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<!--
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
@@ -62,3 +62,9 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
+
+<iframe src="{{ site.url }}/files/cv.pdf" width="100%" height="600px">
+  This browser does not support PDFs. Please download the PDF to view it: 
+  <a href="{{ site.url }}/files/cv.pdf">Download PDF</a>
+</iframe>
