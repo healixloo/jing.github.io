@@ -15,7 +15,7 @@ With prior experience at 3DMedcare, Novogene, and BGI Genomics, I have developed
 
 I am passionate about leveraging bioinformatics to make significant improvements in healthcare and research. Connect with me on [LinkedIn](https://www.linkedin.com/in/healix-loo-1a6566225/) to explore potential collaborations.
 
-![signature](/images/signature.png)
+![signature](https://healixloo.github.io/jing.github.io/images/signature.png)
 <!--
 <img src="/images/signature.png" alt="signature" style="float: right; margin-left: 10px;">
 -->
