@@ -14,3 +14,5 @@ Currently, I serve as a Senior Bioinformatician at the Leibniz Institute on Agin
 With prior experience at 3DMedcare, Novogene, and BGI Genomics, I have developed bioinformatics pipelines for precision oncology and tumor immunotherapy, and conducted forensic individual identification and various genome analyses.
 
 I am passionate about leveraging bioinformatics to make significant improvements in healthcare and research. Connect with me on [LinkedIn](https://www.linkedin.com/in/healix-loo-1a6566225/) to explore potential collaborations.
+
+![signature](/images/signature.png)
