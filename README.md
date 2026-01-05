@@ -1,3 +1,45 @@
+# Updating Publications from Google Scholar
+
+This repository includes a workflow to keep the **Publications** page in sync with your Google Scholar profile.
+
+## How to update
+
+1. Navigate to the `files/` folder locally.  
+2. Run the R script:
+
+   ```bash
+   Rscript UpdateGoogleScholar.R
+   ```
+
+3. The script will automatically extract the latest publications from your Google Scholar profile and generate an HTML file named:
+
+   ```
+   YYYY-MM-DD-publications.html
+   ```
+
+   (where `YYYY-MM-DD` is the current date).
+
+4. Rename the generated file to:
+
+   ```
+   publications.html
+   ```
+
+5. Commit and push the changes to GitHub:
+
+   ```bash
+   git add files/publications.html
+   git commit -m "Update publications from Google Scholar"
+   git push
+   ```
+
+6. Once pushed, GitHub Pages will rebuild and your site will display the updated publications list.
+
+### Notes
+- The script must be run locally; it is not yet automated via GitHub Actions.  
+- The `publications.html` file is embedded in the site and serves as the source for the Publications page.  
+
+
 # Academic Pages
 
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
