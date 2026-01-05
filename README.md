@@ -40,6 +40,7 @@ This repository includes a workflow to keep the **Publications** page in sync wi
 - The `publications.html` file is embedded in the site and serves as the source for the Publications page.  
 
 
+---
 # Academic Pages
 
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
