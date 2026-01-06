@@ -2,7 +2,7 @@
 
 This repository includes a workflow to keep the **Publications** page in sync with your Google Scholar profile.
 
-[Web Page](https://healixloo.github.io/jing.github.io/): https://healixloo.github.io/jing.github.io/
+[Web Page](https://healixloo.github.io/jing.github.io/): https://healixloo.github.io/jing.github.io/publications/
 ## How to update
 
 1. Navigate to the `files/` folder locally.  
